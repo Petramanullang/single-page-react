@@ -1,10 +1,11 @@
 import "./App.css";
+import { Button } from "@material-tailwind/react";
 
 function App() {
   return (
     <div className="app-wrapper">
       <div className="">
-        <h1 className="text-blue-700">Single Page</h1>
+    <Button>Button</Button>
       </div>
     </div>
   );
