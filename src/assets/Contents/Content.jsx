@@ -5,10 +5,11 @@ export default function Content() {
   return (
     <div className="content-wrapper bg-black md:flex md:justify-center">
       <div className="content">
-        <div className="md:flex lg:gap-16 py-4">
+        <div className="md:flex  py-4">
           <Card />
           <Card />
           <Card />
+          
         </div>
       </div>
     </div>
