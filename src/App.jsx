@@ -1,14 +1,16 @@
-import "./App.css";
-import { Button } from "@material-tailwind/react";
+import "./index.css";
+import Navbar from "./assets/Navbar/Navbar";
+import Heroes from "./assets/Heroes/Heroes";
+import Content from "./assets/Contents/Content";
+import Footer from "./assets/Footer/Footer";
 
-function App() {
+export default function App() {
   return (
     <div className="app-wrapper">
-      <div className="">
-    <Button>Button</Button>
-      </div>
+      <Navbar />
+      <Heroes />
+      <Content />
+      <Footer />
     </div>
   );
 }
-
-export default App;
