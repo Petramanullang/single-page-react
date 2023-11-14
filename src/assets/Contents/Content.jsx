@@ -5,7 +5,7 @@ export default function Content() {
   return (
     <div className="content-wrapper bg-black md:flex md:justify-center">
       <div className="content">
-        <div className="md:flex lg:gap-10">
+        <div className="md:flex lg:gap-16 py-4">
           <Card />
           <Card />
           <Card />

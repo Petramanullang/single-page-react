@@ -115,7 +115,7 @@ export default function NavbarDefault() {
   );
 
   return (
-    <Navbar className="left-1/2 top-0 transform -translate-x-1/2 border-b-4 border-none rounded-none backdrop-opacity-0 bg-opacity-0 backdrop-invert bg-white/5 px-3 py-2 z-10 fixed lg:px-8 lg:py-4 sm:rounded-md">
+    <Navbar className="left-1/2 top-0 transform -translate-x-1/2 border-b-4 border-none rounded-none bg-red-200 lg:backdrop-opacity-0 lg:bg-opacity-0 backdrop-invert lg:bg-white/5 px-3 py-2 z-10 fixed lg:px-8 lg:py-4 sm:rounded-md">
       <div className="container mx-auto flex items-center justify-between opacity-100 text-blue-gray-900">
         <button class="overflow-hidden w-32 p-2 h-12 text-white border-none rounded-md text-xl font-bold cursor-pointer relative z-10 group">
           JAPAN
