@@ -35,7 +35,7 @@ export default function Description() {
         </p>
         <img
           className="w-160 h-80 object-cover rounded-md"
-          src="../../public/card-1.jpeg"
+          src="../../public/card-3.webp"
           alt=""
         />
       </div>

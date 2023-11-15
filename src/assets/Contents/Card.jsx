@@ -8,7 +8,7 @@ import {
 
 export default function CardWithLink() {
   return (
-    <Card className="w-96 md:w-64 mb-10 lg:w-108 bg-black cursor-pointer rounded-none hover:lg:rounded-none lg:border-b-2  hover:rounded-lg hover:lg:border-b-red-200">
+    <Card className="w-96 md:w-64 mb-20 lg:w-108 bg-black cursor-pointer rounded-none hover:lg:rounded-none lg:border-b-2  hover:rounded-lg hover:lg:border-b-red-200">
       <CardBody>
         <svg
           xmlns="http://www.w3.org/2000/svg"

@@ -16,6 +16,12 @@ module.exports = withMT({
         120: "30rem",
         160: "40rem",
       },
+      height: {
+        108: "27rem",
+        112: "28rem",
+        120: "30rem",
+        160: "40rem",
+      },
     },
   },
   plugins: [],
