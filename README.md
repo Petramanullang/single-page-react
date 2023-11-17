@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Visit Japan - Single Page React App
 
 ![Visit Japan](./public/card-1.jpeg)
@@ -15,3 +16,6 @@ This is a simple single-page web application built using React that promotes the
 - Explore stunning images of Japan's natural beauty and landmarks.
 - Learn about Japan's rich culture and history.
 - Find helpful travel tips and recommendations for your trip to Japan.
+=======
+# single-page-react
+>>>>>>> 95be8adcc8657e98faf925e1e710c8ec63ba2100
